@@ -1,4 +1,4 @@
-import type { Options, JSX } from 'preact'
+import { Options, JSX } from 'preact'
 import { options as preactOptions } from 'preact'
 
 import { TW, Configuration, Token, CSSRules, directive, Falsy } from 'twind'
